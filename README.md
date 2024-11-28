@@ -7,7 +7,10 @@ Duration: October 2024 - August 2026
 
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
-More info to come soon.
+## News
+
+- **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) have committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopic scans.
+
 
 <html>
  <img src="EN_Funded_by_EU_NextGenEU.jpg" alt="Funded by EU NextGenEU" height="100">
