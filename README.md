@@ -9,6 +9,8 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
 
+- **`2024-12-09`** Presented structural entropy sub-problems at the seminar of the Computer Graphics and Vision Group.  
+
 - **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) have committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopic scans.
 
 
