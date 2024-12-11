@@ -8,6 +8,7 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+- **`2024-12-09`** Assigned a new diploma thesis to a student: *Textural descriptors for quantification of mitochondrial states.*  
 
 - **`2024-12-09`** Presented structural entropy sub-problems at the seminar of the Computer Graphics and Vision Group.  
 
