@@ -8,13 +8,16 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+- **`2025-04-30`** Received new microscopy scans from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/).  
+
+<!-- - **`2024-MM-DD`** New RPBP assigned -->
 - **`2025-03-27`** Presented the project during the [CompBio group](https://compbio.fmph.uniba.sk) retreat in Richňava.  
 
 - **`2024-12-09`** Assigned a new diploma thesis to a student: *Textural descriptors for quantification of mitochondrial states.*  
 
 - **`2024-12-09`** Presented structural entropy sub-problems at the seminar of the Computer Graphics and Vision Group.  
 
-- **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) have committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopic scans.
+- **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopy scans.
 
 
 <html>
