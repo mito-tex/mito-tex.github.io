@@ -8,6 +8,8 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+- **`2025-09-03`** **Xénia Richnáková** joined the project.  
+
 - **`2025-08-05`** Paper accepted for publications and talk at [ITAT](https://itat.ics.upjs.sk/) (Information technologies - Applications and Theory)
 
 <!-- - **`2025-07-04`** Paper on segmentation submitted to [ITAT](https://itat.ics.upjs.sk/) -->
