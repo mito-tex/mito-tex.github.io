@@ -9,6 +9,8 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
 
+- **`2025-11-26`** Poster presented at [MatFyz Connections 2025](https://fmph.uniba.sk/microsites/connections-fmfi/).
+
 - **`2025-09-28`** Paper at **ITAT** as an oral presentation.
 
 - **`2025-09-03`** Xénia Richnáková joined the project.  
@@ -28,6 +30,9 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 - **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopy scans.
 
 ## Publications
+
+- Xénia Richnáková, Matúš Kočalka, Viktória Hodorová, and Jiří Hladůvka.
+MitoTex: Texture-based analysis of mitochondrial microscopy, Poster presented at MatFyz Connections, 2025. [`BibTeX`](Connections.bib)
 
 - Xénia Richnáková, Viktória Hodorová, and Jiří Hladůvka.
 Brightfield Cell Segmentation Without Labels or Learning. In Proceedings of Information Technologies - Applications and Theory, 228-237, 2025. [`BibTeX`](ITAT.bib)
