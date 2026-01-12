@@ -8,6 +8,7 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+- **`2026-01-01`** Matúš Kočalka joined the project. Welcome. 
 
 - **`2025-11-26`** Poster presented at [MatFyz Connections 2025](https://fmph.uniba.sk/microsites/connections-fmfi/).
 
