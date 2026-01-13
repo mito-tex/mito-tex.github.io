@@ -8,9 +8,13 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+- `2026-01-13`[IEEE ISBI 2026](https://biomedicalimaging.org/2026/) paper accepted. Congrats to both authors!
+
 - **`2026-01-01`** Matúš Kočalka joined the project. Welcome. 
 
 - **`2025-11-26`** Poster presented at [MatFyz Connections 2025](https://fmph.uniba.sk/microsites/connections-fmfi/).
+
+<!-- - **`2026-11-07`** Paper on dihedral invariant LBP co-occurrence submitted to [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) -->
 
 - **`2025-09-28`** Paper at **ITAT** as an oral presentation.
 
