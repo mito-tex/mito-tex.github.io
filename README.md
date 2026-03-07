@@ -8,7 +8,9 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
-- `2026-01-13`[IEEE ISBI 2026](https://biomedicalimaging.org/2026/) paper accepted. Congrats to both authors!
+- **`2026-03-06`** [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) paper selected for an oral presentation — a significant achievement, congratulations!
+
+- **`2026-01-13`** [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) paper accepted — congratulations to both authors!
 
 - **`2026-01-01`** Matúš Kočalka joined the project. Welcome. 
 
