@@ -8,6 +8,11 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+
+- **`2026-04-09`** Jiří Hladůvka gave an oral presentation at [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) in London.
+
+- **`2026-03-30`** Jiří Hladůvka presented insights and ongoing work on dihedral LBP co-occurrence at the seminar of the Computer Graphics and Vision Group.
+
 - **`2026-03-06`** [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) paper selected for an oral presentation — a significant achievement, congratulations!
 
 - **`2026-01-13`** [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) paper accepted — congratulations to both authors!
@@ -37,6 +42,9 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 - **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopy scans.
 
 ## Publications
+
+- Jiří Hladůvka and Viktória Hodorová.
+Dihedral-Invariant LBP Co-Occurrence for Cellular Texture Analysis. In Proceedings of IEEE International Symposium on Biomedical Imaging, 1-5, 2026.
 
 - Xénia Richnáková, Matúš Kočalka, Viktória Hodorová, and Jiří Hladůvka.
 MitoTex: Texture-based analysis of mitochondrial microscopy, Poster presented at MatFyz Connections, 2025. [`BibTeX`](Connections.bib)
