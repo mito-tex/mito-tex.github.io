@@ -9,6 +9,8 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
 
+- **`2026-04-15`** Matúš Kočalka became a laureate of the Student Scientific Conference (SVK) and advanced to the next round. Congratulations!
+
 - **`2026-04-09`** Jiří Hladůvka gave an oral presentation at [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) in London.
 
 - **`2026-03-30`** Jiří Hladůvka presented insights and ongoing work on dihedral LBP co-occurrence at the seminar of the Computer Graphics and Vision Group.
@@ -42,6 +44,8 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 - **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopy scans.
 
 ## Publications
+- Matúš Kočalka and Jiří Hladůvka.
+Textural descriptors for quantification of mitochondrial states. Student Scientific Conference, FMFI UK, Bratislava 2026.
 
 - Jiří Hladůvka and Viktória Hodorová.
 Dihedral-Invariant LBP Co-Occurrence for Cellular Texture Analysis. In Proceedings of IEEE International Symposium on Biomedical Imaging, 1-5, 2026.
