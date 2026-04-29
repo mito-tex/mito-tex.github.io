@@ -8,6 +8,7 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+- **`2026-04-28`** Two posters and two short oral presentations presented by Xénia Richnáková and Matúš Kočalka at [CESCG](https://cescg.org).
 
 - **`2026-04-15`** Matúš Kočalka became a laureate of the Student Scientific Conference (SVK) and advanced to the next round. Congratulations!
 
@@ -44,6 +45,13 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 - **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) committed to join the initiative.    An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTeX** and motivated them to contribute future microscopy scans.
 
 ## Publications
+
+- Xénia Richnáková and Jiří Hladůvka.
+Cell segmentation using image processing methods. Central European Seminar on Computer Graphics, 2026.
+
+- Matúš Kočalka and Jiří Hladůvka.
+Textural descriptors for quantification of mitochondrial states. Central European Seminar on Computer Graphics, 2026.
+
 - Matúš Kočalka and Jiří Hladůvka.
 Textural descriptors for quantification of mitochondrial states. Student Scientific Conference, FMFI UK, Bratislava 2026.
 
