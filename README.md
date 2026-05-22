@@ -8,7 +8,7 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
-- **`2026-04-28`** Two posters and two short oral presentations presented by Xénia Richnáková and Matúš Kočalka at [CESCG](https://cescg.org).
+- **`2026-04-28`** Xénia Richnáková and Matúš Kočalka presented two posters and gave two short talks at [CESCG](https://cescg.org).
 
 - **`2026-04-15`** Matúš Kočalka became a laureate of the Student Scientific Conference (SVK) and advanced to the next round. Congratulations!
 
@@ -56,7 +56,8 @@ Textural descriptors for quantification of mitochondrial states. Central Europea
 Textural descriptors for quantification of mitochondrial states. Student Scientific Conference, FMFI UK, Bratislava 2026.
 
 - Jiří Hladůvka and Viktória Hodorová.
-Dihedral-Invariant LBP Co-Occurrence for Cellular Texture Analysis. In Proceedings of IEEE International Symposium on Biomedical Imaging, 1-5, 2026.
+Dihedral-Invariant LBP Co-Occurrence for Cellular Texture Analysis. In Proceedings
+of the IEEE International Symposium on Biomedical Imaging, 1–5, 2026. [DOI: 10.1109/ISBI61048.2026.11515794](https://doi.org/10.1109/ISBI61048.2026.11515794).
 
 - Xénia Richnáková, Matúš Kočalka, Viktória Hodorová, and Jiří Hladůvka.
 MitoTex: Texture-based analysis of mitochondrial microscopy, Poster presented at MatFyz Connections, 2025. [`BibTeX`](Connections.bib)
