@@ -8,6 +8,11 @@ Duration: October 2024 - August 2026
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 ## News
+
+- **`2026-06-24`** Xénia defended her bachelor's thesis, graded A.
+
+- **`2026-06-01`** Matúš defended his diploma thesis, graded A.
+
 - **`2026-04-28`** Xénia Richnáková and Matúš Kočalka presented two posters and gave two short talks at [CESCG](https://cescg.org).
 
 - **`2026-04-15`** Matúš Kočalka became a laureate of the Student Scientific Conference (SVK) and advanced to the next round. Congratulations!
