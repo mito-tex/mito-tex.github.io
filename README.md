@@ -3,6 +3,21 @@
 This is the website of project **MitoTex: Unlocking the secrets of mitochondrial networks with texture descriptors**,
 funded by the EU NextGenerationEU through the Recovery and Resilience Plan for Slovakia under the project No. 09I03-03-V04-00363.
 
+Duration: October 2024–August 2026
+
+## Team
+
+### Project team
+
+- [![ORCID 0000-0002-5947-8813](orcid_16x16.png)](https://orcid.org/0000-0002-5947-8813) Jiří Hladůvka (PI)
+- [![ORCID 0009-0003-5734-3725](orcid_16x16.png)](https://orcid.org/0009-0003-5734-3725) Matúš Kočalka
+- Xénia Richnáková
+
+### Collaborators
+
+- [![ORCID 0000-0003-4152-8744](orcid_16x16.png)](https://orcid.org/0000-0003-4152-8744) Viktória Hodorová
+- [![ORCID 0000-0002-1020-5451](orcid_16x16.png)](https://orcid.org/0000-0002-1020-5451) Jozef Nosek
+
 Duration: October 2024 - August 2026
 
 PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
@@ -29,7 +44,7 @@ PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
 
 - **`2025-11-26`** Poster presented at [MatFyz Connections 2025](https://fmph.uniba.sk/microsites/connections-fmfi/).
 
-<!-- - **`2026-11-07`** Paper on dihedral invariant LBP co-occurrence submitted to [IEEE ISBI 2026](https://biomedicalimaging.org/2026/) -->
+- **`2025-10-08`** In-depth discussion on medical imaging and texture analysis with [James C. Gee](https://www.med.upenn.edu/apps/faculty/index.php/g275/p10656), Zuzana Černeková, and Peter Bluska — insightful exchange of ideas.
 
 - **`2025-09-28`** Paper at **ITAT** as an oral presentation.
 
