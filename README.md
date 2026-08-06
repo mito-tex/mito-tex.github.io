@@ -18,10 +18,6 @@ Duration: October 2024–August 2026
 - [![ORCID 0000-0003-4152-8744](orcid_16x16.png)](https://orcid.org/0000-0003-4152-8744) Viktória Hodorová
 - [![ORCID 0000-0002-1020-5451](orcid_16x16.png)](https://orcid.org/0000-0002-1020-5451) Jozef Nosek
 
-Duration: October 2024 - August 2026
-
-PI: [Dr. Jiří Hladůvka](mailto:jiri.hladuvka@fmph.uniba.sk)
-
 ## News
 
 - **`2026-06-24`** Xénia defended her bachelor's thesis, graded A.
