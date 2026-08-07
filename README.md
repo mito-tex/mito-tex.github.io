@@ -58,6 +58,9 @@ Duration: October 2024–August 2026
 
 - **`2024-11-27`** Researchers from the [Faculty of Natural Sciences](https://fns.uniba.sk/en/) committed to joining the initiative. An informal meeting with [Prof. RNDr. Ľubomír Tomáška, DrSc.](https://fns.uniba.sk/tomaska/) and [Prof. RNDr. Jozef Nosek, DrSc.](http://www.biocenter.sk/jn.html) sparked their interest in **MitoTex** and motivated them to contribute microscopy scans.
 
+## Outputs
+
+
 - Xénia Richnáková and Jiří Hladůvka. Cell Segmentation Using Image Processing Methods. Central European Seminar on Computer Graphics, 2026.
 
 - Matúš Kočalka and Jiří Hladůvka. Textural Descriptors for Quantification of Mitochondrial States. Central European Seminar on Computer Graphics, 2026.
