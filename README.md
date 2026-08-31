@@ -20,6 +20,12 @@ Duration: October 2024–August 2026
 
 ## News
 
+- **`2026-08-30`** Submitted *Interpretable Textural Descriptors for Quantification of Mitochondrial States in Yeast Fluorescence Microscopy* to *Computer Methods and Programs in Biomedicine*. See [Outputs](#outputs).
+
+- **`2026-08-29`** Released the software for interpretable mitochondrial texture analysis on Zenodo. See [Outputs](#outputs).
+
+- **`2026-08-25`** Released the yeast mitochondrial fluorescence microscopy dataset on Zenodo. See [Outputs](#outputs).
+
 - **`2026-06-24`** Xénia defended her bachelor's thesis, graded A.
 
 - **`2026-06-01`** Matúš defended his diploma thesis, graded A.
@@ -60,6 +66,11 @@ Duration: October 2024–August 2026
 
 ## Outputs
 
+- Matúš Kočalka, Viktória Hodorová, Jozef Nosek, and Jiří Hladůvka. *Interpretable Textural Descriptors for Quantification of Mitochondrial States in Yeast Fluorescence Microscopy*. Manuscript submitted to *Computer Methods and Programs in Biomedicine*, 2026.
+
+- Matúš Kočalka and Jiří Hladůvka. *Software for Interpretable Mitochondrial Texture Analysis*. Software, version 1.0.0-rc.1, Zenodo, 2026. [DOI: 10.5281/zenodo.21825095](https://doi.org/10.5281/zenodo.21825095).
+
+- Viktória Hodorová, Matúš Kočalka, and Jiří Hladůvka. *Fluorescence Microscopy Patches of Yeast Mitochondria with Cell Masks*. Dataset, version 1.0.0, Zenodo, 2026. [DOI: 10.5281/zenodo.21261399](https://doi.org/10.5281/zenodo.21261399).
 
 - Xénia Richnáková and Jiří Hladůvka. Cell Segmentation Using Image Processing Methods. Central European Seminar on Computer Graphics, 2026.
 
